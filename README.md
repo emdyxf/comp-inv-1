@@ -1,4 +1,4 @@
 comp-inv-1
 ==========
 
-Computational Investment
+Computational Investment 1
