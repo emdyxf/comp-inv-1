@@ -11,6 +11,15 @@ Created on January, 24, 2013
 @summary: Example tutorial code.
 '''
 
+
+'''
+Coursera :  Computational Investment I
+Week-3:Homework-1::Submitted 2013.09.16
+By: Fan Xia
+Contact: emdyxiafan@gmail.com
+'''
+
+
 # QSTK Imports
 import QSTK.qstkutil.qsdateutil as du
 import QSTK.qstkutil.tsutil as tsu
